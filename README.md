@@ -3,8 +3,9 @@
 
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
-### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Programming**
+
+**Here are some ideas to get you started:** </br>
+- 🔭 I’m currently more into the **Programming**</br>
 - 🌱 I’m currently learning **Full Stack Development.**
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
 - 🤔 I’m looking for help with **again Open Source. This is really fun.**
@@ -41,4 +42,4 @@
     <a href="mailto:anitish.225@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="30" width="30"></a>
   </p>
 
-⭐️ From [Nitish-Awasthi](https://github.com/Nitish-Awasthi)
+⭐️ 
