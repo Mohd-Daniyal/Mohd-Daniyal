@@ -1,12 +1,11 @@
-### <h2>Hey, I'm Daniyal!
-  </br>
+### <h2>Hey, I'm Daniyal !
 </br></br></br>
 
 ### 🧑‍💻 About Me </br>
-- 🔭 I’m currently more into **Coding**
 - 🌱 I’m currently learning **Full Stack Development.**
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for help with **Machine Learning**
+- 🔭 I’m seeking help in **DSA.**
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community.**
+- 🤠 I’m more enthusiastic about **Data Science.**
 - 💬 Ask me about **Technology, Life Science, History, Nature.**
 
 
