@@ -1,10 +1,10 @@
 ### <h2>Hey, I'm Daniyal !
-</br></br></br>
+</br></br>
 
 ### 🧑‍💻 About Me </br>
 - 🌱 I’m currently learning **Full Stack Development.**
 - 🔭 I’m seeking help in **DSA.**
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community.**
+- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects.**
 - 🤠 I’m more enthusiastic about **Data Science.**
 - 💬 Ask me about **Technology, Life Science, History, Nature.**
 
@@ -24,9 +24,3 @@
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
 </br></br></br></br>
-
-
-<p align="center">
-  <i>⭐️ Let's connect and chat! Open to anything under the sun.</i>
-
-
