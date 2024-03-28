@@ -19,7 +19,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 
 ### Some of the technologies I have worked with-</br>
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 ![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
